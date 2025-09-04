@@ -1,0 +1,44 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(90, 50, 1);
+    background-color: rgb(245, 245, 100);
+    margin: 0%;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+#cabecalho {
+    background-color: rgb(245, 245, 118);
+    color:rgb(139, 93, 37);
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+
+#cabecalho h1 {
+
+    margin: 0;
+    text-shadow: 1px 1px 15px rgb(166, 83, 1);
+    font-size: 2.5em;
+}
+
+#cabecalho h2 {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+    font-weight: 400;
+    opacity: 0.9;
+}
+
+#sobre, #habilidades, #secao-contato {
+    background-color: rgba(255, 255, 255, 0.197);
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgb(0, 0, 0);
+    border-left: 5px solid #8e550f;
+
+
+
+}
